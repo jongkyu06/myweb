@@ -3,7 +3,7 @@ module.exports = {
     title: `난 모르겠다.....`,
     author: {
       name: `동아리`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `활동`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
